@@ -34,6 +34,7 @@ dependencies:
   - h11=0.16.0=py310haa95532_0
   - httpcore=1.0.9=py310haa95532_0
   - httpx=0.28.1=py310haa95532_0
+  - icc_rt=2022.1.0=h6049295_2
   - idna=3.7=py310haa95532_0
   - intel-openmp=2023.1.0=h59b6b97_46320
   - ipykernel=6.29.5=py310haa95532_1
@@ -114,6 +115,7 @@ dependencies:
   - rfc3339-validator=0.1.4=py310haa95532_0
   - rfc3986-validator=0.1.1=py310haa95532_0
   - rpds-py=0.22.3=py310h636fa0f_0
+  - scipy=1.15.3=py310h180bac5_0
   - seaborn=0.13.2=py310haa95532_3
   - send2trash=1.8.2=py310haa95532_1
   - setuptools=78.1.1=py310haa95532_0
