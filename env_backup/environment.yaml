@@ -15,7 +15,7 @@ dependencies:
   - bottleneck=1.4.2=py310hc99e966_0
   - brotlicffi=1.0.9.2=py310h5da7b33_1
   - bzip2=1.0.8=h2bbff1b_6
-  - ca-certificates=2025.9.9=haa95532_0
+  - ca-certificates=2025.11.4=haa95532_0
   - certifi=2025.10.5=py310haa95532_0
   - cffi=1.17.1=py310h827c3e9_1
   - charset-normalizer=3.3.2=pyhd3eb1b0_0
@@ -26,6 +26,7 @@ dependencies:
   - debugpy=1.8.11=py310h5da7b33_0
   - decorator=5.1.1=pyhd3eb1b0_0
   - defusedxml=0.7.1=pyhd3eb1b0_0
+  - et_xmlfile=2.0.0=py310haa95532_0
   - exceptiongroup=1.2.0=py310haa95532_0
   - executing=0.8.3=pyhd3eb1b0_0
   - expat=2.7.1=h8ddb27b_0
@@ -82,6 +83,7 @@ dependencies:
   - numpy=2.0.1=py310h055cbcc_1
   - numpy-base=2.0.1=py310h65a83cf_1
   - openjpeg=2.5.2=hae555c5_0
+  - openpyxl=3.1.5=py310h827c3e9_1
   - openssl=3.0.18=h543e019_0
   - overrides=7.4.0=py310haa95532_0
   - packaging=25.0=py310haa95532_0
